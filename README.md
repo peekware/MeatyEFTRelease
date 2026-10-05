@@ -26,3 +26,9 @@ MeatyEFTRelease.slnx   — Visual Studio çözüm dosyası
 ## Derleme
 
 Visual Studio 2022 ile çözümü aç → Release x64 → Build.
+
+---
+
+## İletişim
+
+Discord: [https://discord.gg/vU7PNVr8vk](https://discord.gg/vU7PNVr8vk)
