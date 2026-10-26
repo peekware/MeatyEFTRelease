@@ -31,4 +31,4 @@ Visual Studio 2022 ile çözümü aç → Release x64 → Build.
 
 ## İletişim
 
-Discord: [https://discord.gg/vU7PNVr8vk](https://discord.gg/vU7PNVr8vk)
+Discord: [https://discord.com/invite/CNtdPshppv](https://discord.com/invite/CNtdPshppv)
